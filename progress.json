@@ -106,14 +106,5 @@
       "Great work with using git branch and git checkout to fix the bugs!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1755876519.195779,
-    "completed_at": 1755876519.570653,
-    "comments": [
-      "You are missing some merges"
-    ],
-    "status": "Incomplete"
   }
 ]
